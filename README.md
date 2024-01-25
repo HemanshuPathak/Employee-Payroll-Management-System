@@ -39,13 +39,13 @@ The Employee Payroll Management System is a comprehensive solution developed in 
 
 ## Screenshots:
 
-    ![image](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/1a27ddd6-5a8a-4a91-8538-6b889f7b9ca3)
+    ![Screenshoot](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/1a27ddd6-5a8a-4a91-8538-6b889f7b9ca3)
     Caption: Login Panel for Employee Payroll Management System
       
-    ![image](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/16d4651b-028f-436c-88e8-ab3821b56e2c)
+    ![Screenshoot](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/16d4651b-028f-436c-88e8-ab3821b56e2c)
     Caption: Admin Panel for Employee Payroll Management System
       
-    ![image](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/646b244e-d126-4e4b-8e4c-2db277e41090)
+    ![Screenshoot](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/646b244e-d126-4e4b-8e4c-2db277e41090)
     Caption: Employee Panel for Employee Payroll Management System
 
 ## Installation:
