@@ -1,7 +1,7 @@
 # Employee Payroll Management System
 
 ## Overview:
-The Employee Payroll Management System is a comprehensive solution developed in Java using the NetBeans IDE. It serves as an efficient tool for organizations to manage payroll processes for administrators and employees. This system streamlines salary calculations, leave management, and employee details, offering a seamless experience for both administrators and employees.
+The Employee Payroll Management System is a comprehensive solution developed in Java using the NetBeans IDE. It serves as an efficient tool for organizations to manage payroll processes for administrators and employees. This system streamlines salary calculations and employee details, offering a seamless experience for both administrators and employees.
 
 ## Features:
 
@@ -39,27 +39,25 @@ The Employee Payroll Management System is a comprehensive solution developed in 
 
 ## Screenshots:
 
-    ![Screenshoot](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/1a27ddd6-5a8a-4a91-8538-6b889f7b9ca3)
+![ScreenShoot1](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/0293de5c-b35d-448a-ba21-5dc901ccf1bc)    
     Caption: Login Panel for Employee Payroll Management System
-      
-    ![Screenshoot](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/16d4651b-028f-436c-88e8-ab3821b56e2c)
+
+![ScreenShoot3](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/de0ba156-ccf1-4f37-9317-5b46da7851d6)    
     Caption: Admin Panel for Employee Payroll Management System
       
-    ![Screenshoot](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/646b244e-d126-4e4b-8e4c-2db277e41090)
+![ScreenShoot2](https://github.com/HemanshuPathak/Employee-Payroll-Management-System/assets/44207076/d2d55c34-8a94-49f3-b78c-eea4edaa1ef7)    
     Caption: Employee Panel for Employee Payroll Management System
 
 ## Installation:
 
-    Clone the repository:
-
-    bash
-
-    git clone https://github.com/your-username/employee-payroll-management.git
+Clone the repository:
+```
+    git clone https://github.com/HemanshuPathak/Employee-Payroll-Management-System.git
     cd employee-payroll-management
-
-    Open the project in NetBeans IDE.
-    Set up the database and configure connection settings.
-    Run the application.
+```
+Open the project in NetBeans IDE.
+Set up the database and configure connection settings.
+Run the application.
 
 ## Usage:
 
@@ -71,7 +69,9 @@ The Employee Payroll Management System is a comprehensive solution developed in 
         Username: emp
         Password: pass
 
-    Explore the intuitive interfaces for administrators and employees. Perform tasks such as managing employee profiles, processing payroll, and accessing personal payroll information.
+Explore the intuitive interfaces for administrators and employees. 
+Perform tasks such as managing employee profiles, processing payroll, 
+and accessing personal payroll information.
 
 ## Contributing:
 We welcome contributions to enhance the functionality and usability of the Employee Payroll Management System. If you have suggestions, bug reports, or feature requests, please open an issue. To contribute code, fork the repository and submit a pull request, ensuring adherence to coding standards.
